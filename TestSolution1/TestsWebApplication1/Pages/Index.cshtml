@@ -1,0 +1,64 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post" asp-page-handler="Create">
+    Id:<input type="text" name="Id_Input" />
+    Name:<input type="text" name="Name_Input" />
+    <button type="submit">Create</button>
+</form>
+
+<form method="post" asp-page-handler="Update">
+    Id:<input type="text" name="Id_Input" />
+    Name:<input type="text" name="Name_Input" />
+    <button type="submit">Update</button>
+</form>
+
+<form method="post" asp-page-handler="Delete">
+    <input type="text" name="Id_Input" />
+    <button type="submit">Delete</button>
+</form>
+
+<form method="post" asp-page-handler="Search">
+    <input type="text" name="Name_Input" />
+    <button type="submit">Search</button><button type="submit" asp-page-handler="Display">Display</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>
+                Id:
+            </td>
+            <td>
+                Name:
+            </td>            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var a in Model.List)
+        {
+            <tr>
+                <td>
+                    @a.Id1
+                </td>
+                <td>
+                    @a.Name1
+                </td>
+                <td>
+                    <form method="post" asp-page-handler="Update">
+                        <input type="hidden" name="Id_Input" value="@a.Id1" />
+                        Name:<input type="text" name="Name_Input" value="@a.Name1" />
+                        <button type="submit">Update</button>
+                        <button type="submit" formmethod="post" asp-page-handler="Delete">Delete</button>
+
+                    </form>
+
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
