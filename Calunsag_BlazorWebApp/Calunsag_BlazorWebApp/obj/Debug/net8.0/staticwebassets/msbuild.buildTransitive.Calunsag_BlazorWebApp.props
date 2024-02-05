@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Calunsag_BlazorWebApp.props" />
+</Project>

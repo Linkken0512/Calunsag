@@ -1,0 +1,100 @@
+﻿@page "/More"
+
+<PageTitle>More</PageTitle>
+<style>
+    body {
+        background: #123654
+    }
+
+    .form-control:focus {
+        box-shadow: none;
+        border-color: #123789;
+    }
+
+    .profile-button {
+        background: #129999;
+        box-shadow: none;
+        border: none
+    }
+
+        .profile-button:hover {
+            background: #123556;
+        }
+
+        .profile-button:focus {
+            background: #129999;
+            box-shadow: none
+        }
+
+        .profile-button:active {
+            background: #129999;
+            box-shadow: none
+        }
+
+    .back:hover {
+        color: #129999;
+        cursor: pointer
+    }
+
+    .labels {
+        font-size: 12px
+    }
+
+    .add-experience:hover {
+        background: #123789;
+        color: #fff;
+        cursor: pointer;
+        border: solid 1px #123789
+    }
+</style>
+<head>
+    <title>More about me. . .</title>
+</head>
+<div class="container rounded bg-white mt-5 mb-5">
+    <div class="row">
+        <div class="col-md-3 border-right">
+            <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                <img class="rounded-circle mt-5" style="width: 300px" src="/Photos/Link.jpg">
+            </div>
+        </div>
+        <div class="col-md-5 border-right">
+            <div class="p-3 py-5">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h4 class="text-right">Profile Settings</h4>
+                </div>
+                <div class="row mt-2">
+                    <div class="col-md-6"><label class="labels">Hobbies</label><span class="form-control">@Hobbies</span></div>
+                    <div class="col-md-6"><label class="labels">Skills</label><span class="form-control">@Skills</span></div>
+                    <div class="col-md-6"><label class="labels">Birthday</label><span class="form-control">@Birthday</span></div>                    
+                    <div class="col-md-6"><label class="labels">Siblings</label><span class="form-control">@Siblings</span></div>
+                    <div class="col-md-6">
+                        <label class="labels">Stats</label><span class="form-control">
+                            <ul>
+                                <li>Lvl: 3</li>
+                                <li>Type: Human</li>
+                                <li>atr: Null, Light, Dark, Fire, Water, Nature, Earth </li>
+                                <li>Title: Avatar</li>
+                                <li>str: 8</li>
+                                <li>int: 7</li>
+                                <li>agi: 5</li>
+                                <li>dex: 7</li>
+                                <li>lck: 1</li>
+                            </ul>
+                        </span>
+                    </div>
+                    <div class="col-md-12"><label class="labels">Gender</label><span class="form-control">@Gender</span></div>
+                    <div class="col-md-12"><label class="labels">Age</label><span class="form-control">@Age</span></div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+
+@code {
+    string Hobbies = "Gaming, Anime and Sleeping";
+    string Skills = "None";
+    string Birthday = "April 31, 1999";
+    string Siblings = "Glenda Phoebe Agnes Calunsag-Estorion and Mac Dexter I. Calunsag";
+    string Gender = "Male";
+    string Age = "24"; 
+}
