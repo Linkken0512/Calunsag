@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calunsag_BlazorWebApp", "Calunsag_BlazorWebApp\Calunsag_BlazorWebApp.csproj", "{2456A7DF-2093-4880-ACE6-405CE389A8B7}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database1", "Database1\Database1.sqlproj", "{EFF5642B-55A8-4269-B9C6-1334CA155A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{E4A42485-7F7B-4080-B8E1-C8A88DF06AA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,16 @@ Global
 		{2456A7DF-2093-4880-ACE6-405CE389A8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2456A7DF-2093-4880-ACE6-405CE389A8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2456A7DF-2093-4880-ACE6-405CE389A8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF5642B-55A8-4269-B9C6-1334CA155A97}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E4A42485-7F7B-4080-B8E1-C8A88DF06AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A42485-7F7B-4080-B8E1-C8A88DF06AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A42485-7F7B-4080-B8E1-C8A88DF06AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A42485-7F7B-4080-B8E1-C8A88DF06AA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

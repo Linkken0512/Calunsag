@@ -1,0 +1,121 @@
+﻿@using CalunsagBlazorApp.Data
+@using Dapper
+@using Microsoft.AspNetCore.Mvc
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using Microsoft.Data.SqlClient
+@using System.Data
+
+@page "/Test"
+
+<h3>Test</h3>
+
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon1">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
+  <span class="input-group-text" id="basic-addon2">@example.com</span>
+</div>
+
+<label for="basic-url" class="form-label">Your vanity URL</label>
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+</div>
+
+<div class="input-group mb-3">
+  <span class="input-group-text">$</span>
+  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+  <span class="input-group-text">.00</span>
+</div>
+
+<div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username">
+  <span class="input-group-text">@</span>
+  <input type="text" class="form-control" placeholder="Server" aria-label="Server">
+</div>
+
+<div class="input-group">
+  <span class="input-group-text">With textarea</span>
+  <textarea class="form-control" aria-label="With textarea"></textarea>
+</div>
+
+
+@code {
+    #nullable disable
+    [BindProperties]
+    public class MyProfile : PageModel
+    {
+        private readonly ILogger<MyProfile> _logger;
+        private readonly IConfiguration _config;
+        public string Key { get; set; }
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public int Age { get; set; }
+        public int Lvl { get; set; }
+        public IEnumerable<Profiles> profile { get; set; }
+
+        public MyProfile(ILogger<MyProfile> logger, IConfiguration config)
+        {
+            _logger = logger;
+            _config = config;
+            var conn = new SqlConnection(_config.GetConnectionString("db"));
+            profile = conn.Query<Profiles>("[displayProf]", commandType: CommandType.StoredProcedure);
+
+        }
+        public IActionResult OnPostCreate()
+        {
+            var conn = new SqlConnection(_config.GetConnectionString("db"));
+            conn.Query("[createProf]", new
+            {
+                @Id = Id,
+                @FirstName = FirstName,
+                @LastName = LastName,
+                @Age = Age,
+                @Lvl = Lvl
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostDelete()
+        {
+            var CJDB = new SqlConnection(_config.GetConnectionString("db"));
+            CJDB.Query("[deleteProf]", new
+            {
+                @Id = Id
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostupdate()
+        {
+            var CJDB = new SqlConnection(_config.GetConnectionString("db"));
+            CJDB.Query("[updateProf]", new
+            {
+                @Id = Id,
+                @FirstName = FirstName,
+                @LastName = LastName,
+                @Age = Age,
+                @Lvl = Lvl
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostSearch()
+        {
+            var conn = new SqlConnection(_config.GetConnectionString("db"));
+            profile = conn.Query<Profiles>("[searchProf]", new
+            {
+                @Key = $"%{Key}%"
+            }, commandType: CommandType.StoredProcedure);
+
+            return Page();
+        }
+    }
+}

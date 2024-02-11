@@ -1,0 +1,6 @@
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\bin\Debug\Database1.dacpac
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\bin\Debug\Database1.dll
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\bin\Debug\Database1.pdb
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\obj\Debug\Database1.dll
+D:\ipt\Linkken\Calunsag_BlazorWebApp\Database1\obj\Debug\Database1.pdb

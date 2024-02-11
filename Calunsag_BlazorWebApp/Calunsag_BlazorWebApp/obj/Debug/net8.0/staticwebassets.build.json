@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bmZtFmOB/awu+MvMCOSPulv3VHcvwOW8+q+Y/UmzWGI=",
+  "Hash": "RTXlbeVDWTgNlJw59r3eJwpOdil+5fJCZlBoiTsofIw=",
   "Source": "Calunsag_BlazorWebApp",
   "BasePath": "_content/Calunsag_BlazorWebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Calunsag_BlazorWebApp\\wwwroot",
       "Source": "Calunsag_BlazorWebApp",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calunsag_BlazorWebApp.styles.css",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calunsag_BlazorWebApp.styles.css",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "Calunsag_BlazorWebApp.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calunsag_BlazorWebApp.styles.css"
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calunsag_BlazorWebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Calunsag_BlazorWebApp.bundle.scp.css",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Calunsag_BlazorWebApp.bundle.scp.css",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "Calunsag_BlazorWebApp.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Calunsag_BlazorWebApp.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Calunsag_BlazorWebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\app.css",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\app.css",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\favicon.png",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\favicon.png",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\Photos\\Link.jpg",
+      "Identity": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\Photos\\Link.jpg",
       "SourceId": "Calunsag_BlazorWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\source\\repos\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\Calunsag_BlazorWebApp\\Calunsag_BlazorWebApp\\wwwroot\\",
       "BasePath": "_content/Calunsag_BlazorWebApp",
       "RelativePath": "Photos/Link.jpg",
       "AssetKind": "All",

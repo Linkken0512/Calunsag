@@ -1,0 +1,178 @@
+﻿@page "/Page2"
+@using System.Data
+@using ClassLibrary.Model
+@using Dapper
+@using Microsoft.AspNetCore.Mvc
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@using Microsoft.Data.SqlClient
+
+
+<h3>Page2</h3>
+
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+</div>
+<div class="mb-3">
+    <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Mark</td>
+            <td>Otto</td>
+            <td>@mdo</td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td colspan="2">Larry the Bird</td>
+            <td>@twitter</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="navbar navbar-expand-lg navbar-light bg-white custom-navbar" style="max-height: 300px; overflow-y: auto;">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Clubs</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var a in )
+            {
+                <tr>
+                    <td>
+                        @a.CJClub
+                    </td>
+                    <td>
+                        <form method="post" asp-page-handler="CJdel">
+                            <input hidden name="CJId" value="@a.Id" placeholder="Username" />
+
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#a_@a.CJId">
+                                Update
+                            </button>
+
+
+                            <div class="modal fade" id="a_@a.CJId" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <table class="table">
+                                                <tr>
+                                                    <th>Club</th>
+                                                    <td>
+                                                        <input name="CJClub" value="@a.CJClub">
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                        <button type="submit" method="post" asp-page-handler="CJupd" class="btn btn-primary">Update</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-danger">DELETE</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+   
+</div>
+<div class="navbar navbar-expand-lg navbar-light bg-white custom-navbar" style="border: 4px solid #ffd700; outline: 4px solid blue">
+    <form method="post" asp-page-handler="CJadd">
+        <input name="CJClub" required placeholder="Club Name" />
+
+        <button type="submit">ADD</button>
+    </form>
+</div>
+
+@code {
+    #nullable disable
+
+    string mdo = "asd";
+    string fat = "asd";
+    string twitter = "asd";
+
+    public class Profile : PageModel
+    {
+        private readonly ILogger<Profile> _logger;
+        private readonly IConfiguration _CJconfig;
+        public string CJClub { get; set; }
+        public string CJKey { get; set; }
+        public int CJId { get; set; }
+        public IEnumerable<Info> list { get; set; }
+
+        public Profile(ILogger<Profile> logger, IConfiguration CJconfig)
+        {
+            _logger = logger;
+            _CJconfig = CJconfig;
+            var CJDB = new SqlConnection(_CJconfig.GetConnectionString("db"));
+            list = CJDB.Query<Info>("[select]", commandType: CommandType.StoredProcedure);
+
+        }
+        public IActionResult OnPostCJadd()
+        {
+            var CJDB = new SqlConnection(_CJconfig.GetConnectionString("db"));
+            CJDB.Query("[create]", new
+            {
+                @FName = FName
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostCJdel()
+        {
+            var CJDB = new SqlConnection(_CJconfig.GetConnectionString("db"));
+            CJDB.Query("[CJClubDel]", new
+            {
+                @CJId = CJId
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostCJupd()
+        {
+            var CJDB = new SqlConnection(_CJconfig.GetConnectionString("db"));
+            CJDB.Query("[CJClubUpd]", new
+            {
+                @CJId = CJId,
+                @CJClub = CJClub
+
+            }, commandType: CommandType.StoredProcedure);
+
+            return RedirectToPage();
+        }
+        public IActionResult OnPostCJsea()
+        {
+            var CJDB = new SqlConnection(_CJconfig.GetConnectionString("db"));
+            list = CJDB.Query<Info>("[CJClubSea]", new
+            {
+                @CJKey = $"%{CJKey}%"
+            }, commandType: CommandType.StoredProcedure);
+
+            return Page();
+        }
+    }
+}

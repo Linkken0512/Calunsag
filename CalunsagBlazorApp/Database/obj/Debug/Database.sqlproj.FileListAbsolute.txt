@@ -1,0 +1,6 @@
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\bin\Debug\Database.dacpac
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\bin\Debug\Database.dll
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\bin\Debug\Database.pdb
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.dll
+C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.pdb
