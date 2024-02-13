@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calunsag_BlazorWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a459d6befdea5e21a4343dd3746ee560e1c4220e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29236cc7f14333a706a53399262545762ef55787")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calunsag_BlazorWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calunsag_BlazorWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

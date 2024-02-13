@@ -1,9 +1,5 @@
 ﻿CREATE PROCEDURE [dbo].[displayProf]
-	@Id INT, 
-    @FirstName NVARCHAR(50), 
-    @LastName NVARCHAR(50), 
-    @Age INT, 
-    @Lvl INT
+	@Id INT
 as
 begin
 select *

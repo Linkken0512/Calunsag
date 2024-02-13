@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tefur1RlkfZ8wrzRdPOhuWdaV/pl4tWX6ak5jmJw3cOsitqLG0R8edkmeCJCefh7g+pOb3T2HENKlccgIBFFVg==",
+  "dgSpecHash": "xCGhEE0UALUfIbmamqrr2YZxnLVKFVJWcl9l/eJum+utUva6Te+VXRNZ9azjM9HbHbzIpuuvEpAhQIgT5n0PsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kizum\\source\\repos\\CalunsagBlazorApp\\CalunsagBlazorApp\\CalunsagBlazorApp.csproj",
+  "projectFilePath": "D:\\ipt\\Linkken\\CalunsagBlazorApp\\CalunsagBlazorApp\\CalunsagBlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kizum\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

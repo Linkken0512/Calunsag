@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalunsagBlazorApp", "CalunsagBlazorApp\CalunsagBlazorApp.csproj", "{9D9B2AE3-82B4-4504-8FBE-68B4847D854A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalunsagBlazorApp", "CalunsagBlazorApp\CalunsagBlazorApp.csproj", "{9D9B2AE3-82B4-4504-8FBE-68B4847D854A}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{DE1FA04D-CE66-4CAF-970C-7B87AE2A5E11}"
 EndProject

@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Profiles]
+       [dbo].[Stats]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[Profiles] (Table)
+       [dbo].[Stats] (Table)
+     Alter
+       [dbo].[createProf] (Procedure)
+
+** Supporting actions
+     Refresh
+       [dbo].[deleteProf] (Procedure)
+       [dbo].[displayProf] (Procedure)
+       [dbo].[searchProf] (Procedure)
+       [dbo].[updateProf] (Procedure)
+       [dbo].[addStats] (Procedure)
+       [dbo].[deleteStats] (Procedure)
+       [dbo].[showStats] (Procedure)
+       [dbo].[updateStats] (Procedure)

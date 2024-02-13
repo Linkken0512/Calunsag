@@ -4,3 +4,13 @@ C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\bin\Debug\Database.pdb
 C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
 C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.dll
 C:\Users\kizum\source\repos\CalunsagBlazorApp\Database\obj\Debug\Database.pdb
+D:\ipt\Linkken\CalunsagBlazorApp\Database\bin\Debug\Database.dacpac
+D:\ipt\Linkken\CalunsagBlazorApp\Database\bin\Debug\Database.dll
+D:\ipt\Linkken\CalunsagBlazorApp\Database\bin\Debug\Database.pdb
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\Model.xml
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\refactor.xml
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\postdeploy.sql
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\predeploy.sql
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\Database.dll
+D:\ipt\Linkken\CalunsagBlazorApp\Database\obj\Debug\Database.pdb

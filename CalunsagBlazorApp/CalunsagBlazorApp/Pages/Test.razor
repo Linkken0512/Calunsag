@@ -4,57 +4,46 @@
 @using Microsoft.AspNetCore.Mvc.RazorPages
 @using Microsoft.Data.SqlClient
 @using System.Data
-
 @page "/Test"
 
 <h3>Test</h3>
 
-<div class="input-group mb-3">
-  <span class="input-group-text" id="basic-addon1">@</span>
-  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+<form method="post">
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">First Name</label>
+        <input type="text" placeholder="Example: John" asp-for="prof.FirstName">
+</div>
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Last Name</label>
+        <input type="text" placeholder="Example: Jerk" asp-for="prof.LastName">
+</div>
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">First Name</label>
+        <input type="text" placeholder="Example: 1s" asp-for="prof.Age">
+</div>
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Level</label>
+        <input type="text" placeholder="Example: 1" asp-for="prof.Lvl">
 </div>
 
-<div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
-  <span class="input-group-text" id="basic-addon2">@example.com</span>
-</div>
-
-<label for="basic-url" class="form-label">Your vanity URL</label>
-<div class="input-group mb-3">
-  <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
-  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-</div>
-
-<div class="input-group mb-3">
-  <span class="input-group-text">$</span>
-  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-  <span class="input-group-text">.00</span>
-</div>
-
-<div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="Username" aria-label="Username">
-  <span class="input-group-text">@</span>
-  <input type="text" class="form-control" placeholder="Server" aria-label="Server">
-</div>
-
-<div class="input-group">
-  <span class="input-group-text">With textarea</span>
-  <textarea class="form-control" aria-label="With textarea"></textarea>
-</div>
+    <button asp-page-handler="Create">Add</button>
+</form>
 
 
 @code {
     #nullable disable
+    public MyProfile prof;
     [BindProperties]
     public class MyProfile : PageModel
     {
         private readonly ILogger<MyProfile> _logger;
         private readonly IConfiguration _config;
+        private readonly SqlConnection conn;
         public string Key { get; set; }
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public int Age { get; set; }
+        public int? Age { get; set; }
         public int Lvl { get; set; }
         public IEnumerable<Profiles> profile { get; set; }
 
@@ -62,16 +51,14 @@
         {
             _logger = logger;
             _config = config;
-            var conn = new SqlConnection(_config.GetConnectionString("db"));
+            conn = new SqlConnection(_config.GetConnectionString("db"));
             profile = conn.Query<Profiles>("[displayProf]", commandType: CommandType.StoredProcedure);
 
         }
         public IActionResult OnPostCreate()
         {
-            var conn = new SqlConnection(_config.GetConnectionString("db"));
             conn.Query("[createProf]", new
-            {
-                @Id = Id,
+            {                
                 @FirstName = FirstName,
                 @LastName = LastName,
                 @Age = Age,
@@ -79,12 +66,11 @@
 
             }, commandType: CommandType.StoredProcedure);
 
-            return RedirectToPage();
+            return Page();
         }
         public IActionResult OnPostDelete()
         {
-            var CJDB = new SqlConnection(_config.GetConnectionString("db"));
-            CJDB.Query("[deleteProf]", new
+            conn.Query("[deleteProf]", new
             {
                 @Id = Id
 
@@ -94,8 +80,7 @@
         }
         public IActionResult OnPostupdate()
         {
-            var CJDB = new SqlConnection(_config.GetConnectionString("db"));
-            CJDB.Query("[updateProf]", new
+            conn.Query("[updateProf]", new
             {
                 @Id = Id,
                 @FirstName = FirstName,
@@ -109,7 +94,6 @@
         }
         public IActionResult OnPostSearch()
         {
-            var conn = new SqlConnection(_config.GetConnectionString("db"));
             profile = conn.Query<Profiles>("[searchProf]", new
             {
                 @Key = $"%{Key}%"

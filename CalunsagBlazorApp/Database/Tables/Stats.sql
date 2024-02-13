@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Stats]
 (
-	[StatId] INT NOT NULL PRIMARY KEY, 
+	[StatId] INT NOT NULL PRIMARY KEY IDENTITY(1,1), 
     [str] INT NULL,
     [agi] INT NULL,
     [mgc] INT NULL,
