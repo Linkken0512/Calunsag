@@ -9,6 +9,36 @@ namespace CalunsagBlazorApp.Data
     public class Class
     {
     }
+    public interface IProfile
+    {
+        string Id { get; set; }
+        string FirstName { get; set; }
+        string LastName { get; set; }
+        int Age { get; set; }
+        int Lvl { get; set; }
+    }
+
+    public class Profile : IProfile
+    {
+        private string id;
+        private string firstName;
+        private string lastName;
+        private int age;
+        private int lvl;
+        public Profile()
+        {
+            id = Guid.NewGuid().ToString();
+        }
+
+        public string Id { get => id; set => id = value; }
+        public string FirstName { get => firstName; set => firstName = value; }
+        public string LastName { get => lastName; set => lastName = value; }
+        public int Age { get => age; set => age = value; }
+        public int Lvl { get => lvl; set => lvl = value; }
+    }
+
+
+
     public class Connection : Profiles
     {
         private readonly IConfiguration config;
@@ -24,10 +54,10 @@ namespace CalunsagBlazorApp.Data
            
             conn.Query("[createProf]", new
             {
-                @FirstName = FirstName,
-                @LastName = LastName,
-                @Age = Age,
-                @Lvl = Lvl
+                FirstName,
+                LastName,
+                Age,
+                Lvl
 
             }, commandType: CommandType.StoredProcedure);            
         }
@@ -35,11 +65,11 @@ namespace CalunsagBlazorApp.Data
         {            
             conn.Query("[updateProf]", new
             {
-                @Id = disprof.Id,
-                @FirstName = disprof.FirstName,
-                @LastName = disprof.LastName,
-                @Age = disprof.Age,
-                @Lvl = disprof.Lvl
+                disprof.Id,
+                disprof.FirstName,
+                disprof.LastName,
+                disprof.Age,
+                disprof.Lvl
 
             }, commandType: CommandType.StoredProcedure);           
         }
@@ -47,11 +77,11 @@ namespace CalunsagBlazorApp.Data
         {
             var result = conn.Query<Profiles>("[displayProf]", new
             {
-                @Id = Id,
-                @FirstName = FirstName,
-                @LastName = LastName,
-                @Age = Age,
-                @Lvl = Lvl
+                Id,
+                FirstName,
+                LastName,
+                Age,
+                Lvl
 
             }, commandType: CommandType.StoredProcedure);
             
@@ -61,7 +91,7 @@ namespace CalunsagBlazorApp.Data
         {            
             conn.Query("[deleteProf]", new
             {
-                @Id = Id
+                Id
 
             }, commandType: CommandType.StoredProcedure);
         }

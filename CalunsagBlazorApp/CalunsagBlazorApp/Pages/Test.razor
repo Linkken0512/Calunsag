@@ -30,6 +30,8 @@
 </form>
 
 
+
+
 @code {
     #nullable disable
     public MyProfile prof;
@@ -39,20 +41,21 @@
         private readonly ILogger<MyProfile> _logger;
         private readonly IConfiguration _config;
         private readonly SqlConnection conn;
+        private Profiles profiles;
         public string Key { get; set; }
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int? Age { get; set; }
         public int Lvl { get; set; }
-        public IEnumerable<Profiles> profile { get; set; }
+        public IEnumerable<Profiles> profList { get; set; }
 
         public MyProfile(ILogger<MyProfile> logger, IConfiguration config)
         {
             _logger = logger;
             _config = config;
             conn = new SqlConnection(_config.GetConnectionString("db"));
-            profile = conn.Query<Profiles>("[displayProf]", commandType: CommandType.StoredProcedure);
+            profList = conn.Query<Profiles>("[displayProf]", commandType: CommandType.StoredProcedure);
 
         }
         public IActionResult OnPostCreate()
@@ -78,7 +81,7 @@
 
             return RedirectToPage();
         }
-        public IActionResult OnPostupdate()
+        public IActionResult OnPostUpdate()
         {
             conn.Query("[updateProf]", new
             {
@@ -94,7 +97,7 @@
         }
         public IActionResult OnPostSearch()
         {
-            profile = conn.Query<Profiles>("[searchProf]", new
+            profList = conn.Query<Profiles>("[searchProf]", new
             {
                 @Key = $"%{Key}%"
             }, commandType: CommandType.StoredProcedure);
