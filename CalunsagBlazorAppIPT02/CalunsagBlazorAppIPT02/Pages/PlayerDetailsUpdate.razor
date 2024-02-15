@@ -1,0 +1,66 @@
+﻿@page "/PlayerDetailsUpdate"
+@inject ConnectionDb PlayerDb
+<h1 class="title text-center mb-4">Update Contact</h1>
+
+@if (playerOptions != null)
+{
+    <select class="select-option" @bind="PlayerDetailsId">
+        @foreach (var option in playerOptions)
+        {
+            <option value="@option?.PlayerId">@option?.PlayerName   </option>
+        }
+    </select>
+    <button @onclick="PlayerDetailsDisplay" class="btn btn-primary">Check</button>
+}
+
+<form @onsubmit="playerDetailsUpdate">
+
+    <div class="form-group position-relative">
+        <label>
+           Player Name
+        </label>
+        <input type="text" class="form-control form-control-lg thick" @bind="playUpdate.PlayerName">
+    </div>
+
+    <div class="form-group position-relative">
+        <label>
+            Player Rank
+        </label>
+        <input type="text" class="form-control form-control-lg thick" @bind="playUpdate.PlayerRank">
+    </div>
+
+    <div class="form-group position-relative">
+        <label>
+           Player Class
+        </label>
+        <input type="text" class="form-control form-control-lg thick" @bind="playUpdate.PlayerClass">
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary" tabIndex="-1">Update</button>
+    </div>
+</form>
+
+@code {
+    #nullable disable
+    private IEnumerable<Player> playerOptions;
+    private Player playUpdate = new Player();
+    private int PlayerDetailsId;
+
+    protected override void OnInitialized()
+    {
+        playerOptions = PlayerDb.playerlist();
+    }
+
+    private void PlayerDetailsDisplay()
+    {
+        playUpdate = PlayerDb.PickedPlayer(PlayerDetailsId)?.FirstOrDefault() as Player;
+    }
+    private void playerDetailsUpdate()
+    {
+
+        PlayerDb.PlayerDetailsUpdate(playUpdate);
+        playUpdate = new Player();
+        playerOptions = PlayerDb.playerlist();
+    }
+}

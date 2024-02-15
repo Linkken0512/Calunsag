@@ -1,0 +1,68 @@
+﻿@page "/PlayerDetails"
+@inject ConnectionDb PlayerDb
+<h3>PlayerDetails</h3>
+
+<h1 class="title text-center mb-4">Player Details</h1>
+
+@if (playerOptions != null)
+{
+    <select class="select-option" @bind="PlayerDetailsId">
+        @foreach (var option in playerOptions)
+        {
+            <option value="@option?.PlayerId">@option?.PlayerName   </option>
+        }
+    </select>
+    <button @onclick="PlayerDetailsDisplay" class="btn btn-primary">Check</button>
+}
+
+
+
+<div class="form-group position-relative">
+    <label>
+        FirstName
+    </label>
+    <span type="text" class="form-control form-control-lg thick">@playD?.PlayerName </span>
+</div>
+
+<div class="form-group position-relative">
+    <label>
+        LastName
+    </label>
+    <span type="text" class="form-control form-control-lg thick">@playD?.PlayerRank</span>
+</div>
+
+<div class="form-group position-relative">
+    <label>
+        E-mail
+    </label>
+    <span type="text" class="form-control form-control-lg thick">@playD?.PlayerClass</span>
+</div>
+
+
+<div class="text-center">
+    <span @onclick="PlayerDetailsDelete" type="submit" class="btn btn-primary" tabIndex="-1">Delete</span>
+</div>
+
+@code {
+    #nullable disable
+    private IEnumerable<Player> playerOptions;
+    private Player playD;
+    private int PlayerDetailsId;
+
+    protected override void OnInitialized()
+    {
+        playerOptions = PlayerDb.playerlist();
+    }
+
+    private void PlayerDetailsDisplay()
+    {
+        playD = PlayerDb.PickedPlayer(PlayerDetailsId)?.FirstOrDefault() as Player;
+    }
+
+    private void PlayerDetailsDelete()
+    {
+        PlayerDb.PlayerDetailsDelete(PlayerDetailsId);
+        playD = new Player();
+        playerOptions = PlayerDb.playerlist();
+    }
+}
