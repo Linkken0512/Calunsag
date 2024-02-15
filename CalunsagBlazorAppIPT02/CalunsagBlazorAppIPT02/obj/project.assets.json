@@ -2127,11 +2127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02.csproj",
+      "projectUniqueName": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02.csproj",
       "projectName": "CalunsagBlazorAppIPT02",
-      "projectPath": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02.csproj",
+      "projectPath": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02.csproj",
       "packagesPath": "C:\\Users\\kizum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\",
+      "outputPath": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

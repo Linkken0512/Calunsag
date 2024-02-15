@@ -1,0 +1,10 @@
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\bin\Debug\BrazzerDatabase.dacpac
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\bin\Debug\BrazzerDatabase.dll
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\bin\Debug\BrazzerDatabase.pdb
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\BrazzerDatabase.sqlproj.AssemblyReference.cache
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\Model.xml
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\refactor.xml
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\postdeploy.sql
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\predeploy.sql
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\BrazzerDatabase.dll
+C:\Users\kizum\source\repos\CalunsagBlazzer\BrazzerDatabase\obj\Debug\BrazzerDatabase.pdb
