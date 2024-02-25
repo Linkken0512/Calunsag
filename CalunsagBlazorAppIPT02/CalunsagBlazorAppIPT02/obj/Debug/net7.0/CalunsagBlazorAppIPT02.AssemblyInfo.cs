@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalunsagBlazorAppIPT02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85eac211cfea6c94b448bb1c6a508d2bf30721cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baf0e90a437c6b739bbb85dd2c03e00bb63e809")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalunsagBlazorAppIPT02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalunsagBlazorAppIPT02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

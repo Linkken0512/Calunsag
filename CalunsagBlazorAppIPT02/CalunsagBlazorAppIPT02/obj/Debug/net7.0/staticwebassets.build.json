@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HNFVmo9eRNmHaJX/svLCSo9UZ6XBHlj9o24Agy7MFpc=",
+  "Hash": "+lDLcUDlNuZOso1QqVXumTHnykkz87FOr6gAyUxNT3Q=",
   "Source": "CalunsagBlazorAppIPT02",
   "BasePath": "_content/CalunsagBlazorAppIPT02",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CalunsagBlazorAppIPT02\\wwwroot",
       "Source": "CalunsagBlazorAppIPT02",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalunsagBlazorAppIPT02.styles.css",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalunsagBlazorAppIPT02.styles.css",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "CalunsagBlazorAppIPT02.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalunsagBlazorAppIPT02.styles.css"
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\bundle\\CalunsagBlazorAppIPT02.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CalunsagBlazorAppIPT02.bundle.scp.css",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CalunsagBlazorAppIPT02.bundle.scp.css",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "CalunsagBlazorAppIPT02.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CalunsagBlazorAppIPT02.bundle.scp.css"
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CalunsagBlazorAppIPT02.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\site.css",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\css\\site.css",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\favicon.png",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\favicon.png",
       "SourceId": "CalunsagBlazorAppIPT02",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kizum\\Desktop\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagBlazorAppIPT02\\CalunsagBlazorAppIPT02\\wwwroot\\",
       "BasePath": "_content/CalunsagBlazorAppIPT02",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
