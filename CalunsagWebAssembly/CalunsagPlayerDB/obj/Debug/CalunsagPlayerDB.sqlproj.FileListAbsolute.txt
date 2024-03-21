@@ -1,0 +1,10 @@
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\bin\Debug\CalunsagPlayerDB.dacpac
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\bin\Debug\CalunsagPlayerDB.dll
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\bin\Debug\CalunsagPlayerDB.pdb
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\CalunsagPlayerDB.sqlproj.AssemblyReference.cache
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\Model.xml
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\refactor.xml
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\postdeploy.sql
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\predeploy.sql
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\CalunsagPlayerDB.dll
+D:\ipt\Linkken\CalunsagWebAssembly\CalunsagPlayerDB\obj\Debug\CalunsagPlayerDB.pdb
