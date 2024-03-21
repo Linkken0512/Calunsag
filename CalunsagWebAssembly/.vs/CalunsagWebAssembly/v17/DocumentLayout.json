@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\",
+  "WorkspaceRootPath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|c:\\users\\kizum\\source\\repos\\calunsagwebassembly\\calunsagwebassemblybasic\\pages\\playerprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|solutionrelative:calunsagwebassemblybasic\\pages\\playerprofile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C554B48-069E-469A-A65F-4570D429FBC8}|CalunsagWebAssemblyCRUD\\CalunsagWebAssemblyCRUD.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwebassemblycrud\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C554B48-069E-469A-A65F-4570D429FBC8}|CalunsagWebAssemblyCRUD\\CalunsagWebAssemblyCRUD.csproj|solutionrelative:calunsagwebassemblycrud\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|c:\\users\\kizum\\source\\repos\\calunsagwebassembly\\calunsagwebassemblybasic\\wwwroot\\css\\player\\player.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|solutionrelative:calunsagwebassemblybasic\\wwwroot\\css\\player\\player.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|c:\\users\\kizum\\source\\repos\\calunsagwebassembly\\calunsagwebassemblybasic\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E040EDE-C077-4683-9254-C53602C204C6}|CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj|solutionrelative:calunsagwebassemblybasic\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1C554B48-069E-469A-A65F-4570D429FBC8}|CalunsagWebAssemblyCRUD\\CalunsagWebAssemblyCRUD.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwebassemblycrud\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C554B48-069E-469A-A65F-4570D429FBC8}|CalunsagWebAssemblyCRUD\\CalunsagWebAssemblyCRUD.csproj|solutionrelative:calunsagwebassemblycrud\\pages\\test.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "CalunsagWebAssemblyBasic\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "CalunsagWebAssemblyBasic\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyCRUD\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CalunsagWebAssemblyCRUD\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyCRUD\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CalunsagWebAssemblyCRUD\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T12:18:05.306Z",
+              "WhenOpened": "2024-03-21T02:52:11.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "player.css",
-              "DocumentMoniker": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\wwwroot\\css\\Player\\player.css",
-              "RelativeDocumentMoniker": "CalunsagWebAssemblyBasic\\wwwroot\\css\\Player\\player.css",
-              "ToolTip": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\wwwroot\\css\\Player\\player.css",
-              "RelativeToolTip": "CalunsagWebAssemblyBasic\\wwwroot\\css\\Player\\player.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-18T11:58:19.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerProfile.razor",
-              "DocumentMoniker": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\Pages\\PlayerProfile.razor",
-              "RelativeDocumentMoniker": "CalunsagWebAssemblyBasic\\Pages\\PlayerProfile.razor",
-              "ToolTip": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\Pages\\PlayerProfile.razor",
-              "RelativeToolTip": "CalunsagWebAssemblyBasic\\Pages\\PlayerProfile.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "Test.razor",
+              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyCRUD\\Pages\\Test.razor",
+              "RelativeDocumentMoniker": "CalunsagWebAssemblyCRUD\\Pages\\Test.razor",
+              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyCRUD\\Pages\\Test.razor",
+              "RelativeToolTip": "CalunsagWebAssemblyCRUD\\Pages\\Test.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-18T11:40:34.538Z",
+              "WhenOpened": "2024-03-21T01:53:35.121Z",
               "EditorCaption": ""
             }
           ]

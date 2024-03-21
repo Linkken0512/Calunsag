@@ -2063,11 +2063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj",
+      "projectUniqueName": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj",
       "projectName": "CalunsagWebAssemblyBasic",
-      "projectPath": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj",
+      "projectPath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\CalunsagWebAssemblyBasic.csproj",
       "packagesPath": "C:\\Users\\kizum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kizum\\source\\repos\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\",
+      "outputPath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
