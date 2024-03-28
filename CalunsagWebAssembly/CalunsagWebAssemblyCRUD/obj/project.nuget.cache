@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CBQqddzJQh/wtmZTChIvyJb5KN95RGB0F/v/jaDVnH/++ojMP2MYoQ6MysOPtl/2IfgTqFIeigQol/2hPLB3dA==",
+  "dgSpecHash": "yUfvxzC47V7CnkLB324lmp3PKnRnDcRNpx+G0Nm3ioYw8up7xXlhanTOLS6W2cPY8e4PgAXd4S7IJUGwRExadA==",
   "success": true,
   "projectFilePath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyCRUD\\CalunsagWebAssemblyCRUD.csproj",
   "expectedPackageFiles": [
@@ -28,13 +28,13 @@
     "C:\\Users\\kizum\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\microsoft.jsinterop\\8.0.2\\microsoft.jsinterop.8.0.2.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
-    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
-    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.2\\microsoft.net.sdk.webassembly.pack.8.0.2.nupkg.sha512",
+    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\quick.aspnetcore.components.web.extensions\\6.0.2\\quick.aspnetcore.components.web.extensions.6.0.2.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\kizum\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.2.nupkg.sha512"
+    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.3.nupkg.sha512"
   ],
   "logs": []
 }

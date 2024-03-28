@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NVEY5verUOqgw4AqXithaKvm9ALbnStKxadw6v5xU7DrHt8KwUKegyZ7zdtJ5jz1pETPEuWkUAfB/bIEeTQuA==",
+  "success": true,
+  "projectFilePath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102\\Server\\CalunsagWASM_IPT102.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kizum\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.26\\microsoft.aspnetcore.components.webassembly.server.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

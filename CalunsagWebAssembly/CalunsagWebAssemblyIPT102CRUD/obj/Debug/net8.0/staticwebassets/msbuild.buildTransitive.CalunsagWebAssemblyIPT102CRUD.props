@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CalunsagWebAssemblyIPT102CRUD.props" />
+</Project>

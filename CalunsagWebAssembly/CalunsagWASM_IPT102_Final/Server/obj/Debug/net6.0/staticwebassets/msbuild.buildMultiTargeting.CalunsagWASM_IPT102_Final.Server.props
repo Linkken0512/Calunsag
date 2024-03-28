@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CalunsagWASM_IPT102_Final.Server.props" />
+</Project>

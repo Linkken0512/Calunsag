@@ -1,0 +1,33 @@
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\appsettings.Development.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\appsettings.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Web API.exe
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Web API.deps.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Web API.runtimeconfig.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Web API.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Web API.pdb
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.csproj.AssemblyReference.cache
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.AssemblyInfoInputs.cache
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.AssemblyInfo.cs
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.csproj.CoreCompileInputs.cache
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.sourcelink.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets.build.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets.development.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.Web API.props
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web API.props
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\scopedcss\bundle\Web API.styles.css
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.csproj.Up2Date
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\refint\Web API.dll
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.pdb
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\Web API.genruntimeconfig.cache
+D:\ipt\Linkken\CalunsagWebAssembly\Web API\obj\Debug\net8.0\ref\Web API.dll

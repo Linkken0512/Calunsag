@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalunsagWebAssemblyCRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11115bc829d0f26dade95b32cf9af89abf9cf30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fe3045572365775e91436eb054efa2566365d6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalunsagWebAssemblyCRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalunsagWebAssemblyCRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

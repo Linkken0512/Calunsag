@@ -1,0 +1,46 @@
+﻿@page "/students"
+@using CalunsagWebAssemblyIPT102CRUD.Models
+@using CalunsagWebAssemblyIPT102CRUD.Services
+@inject StudentService studentService
+
+<h3>Students</h3>
+
+@if (students == null)
+{
+    <p>Loading...</p>
+}
+else if (students.Count == 0)
+{
+    <p>No students found.</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Course</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in students)
+            {
+                <tr>
+                    <td>@student.ID</td>
+                    <td>@student.Name</td>
+                    <td>@student.Course</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Student> students;
+
+    protected override async Task OnInitializedAsync()
+    {
+        students = await studentService.GetStudentsAsync();
+    }
+}

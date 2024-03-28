@@ -849,15 +849,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-s0OQi\/v06y8V2qMQ1ia36KHIlM4DJxzmdYOKnuSeoxM=",
+      "hash": "sha256-GqWE57SuckWUzoHAzh+RW8Ljt4YNOeyorc+1lhBE5+M=",
       "url": "_framework\/CalunsagWebAssemblyCRUD.wasm"
     },
     {
-      "hash": "sha256-xN9ZSPoyOedYK3keaC+kQn4B1HJYN0gKuwRQPA3b7EY=",
+      "hash": "sha256-SiZQMPfxFstShBu5q4E1jzEozIWrSfCcPRXG7AESIDg=",
       "url": "_framework\/CalunsagWebAssemblyCRUD.pdb"
     },
     {
-      "hash": "sha256-koxYt9I0Nbd7DX+LCoY\/BmpDtYsDwQK+bkGl5G7MMMI=",
+      "hash": "sha256-7116nFdOm0lOkFqNFowQNwS\/Mc69s74c5VO7zobBTWE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -865,5 +865,5 @@
       "url": "_content\/Quick.AspNetCore.Components.Web.Extensions\/headManager.js"
     }
   ],
-  "version": "SAC+mbHF"
+  "version": "W+jj8i+7"
 };
