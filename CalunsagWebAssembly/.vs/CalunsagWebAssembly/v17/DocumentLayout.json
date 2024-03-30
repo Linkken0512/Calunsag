@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\server\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|solutionrelative:calunsagwasm_ipt102_final\\server\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFC3EC5-1CC0-45EA-9AAC-42B12813D73A}|CalunsagWASM_IPT102_Final\\Client\\CalunsagWASM_IPT102_Final.Client.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\client\\pages\\displaystudents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AFC3EC5-1CC0-45EA-9AAC-42B12813D73A}|CalunsagWASM_IPT102_Final\\Client\\CalunsagWASM_IPT102_Final.Client.csproj|solutionrelative:calunsagwasm_ipt102_final\\client\\pages\\displaystudents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AFC3EC5-1CC0-45EA-9AAC-42B12813D73A}|CalunsagWASM_IPT102_Final\\Client\\CalunsagWASM_IPT102_Final.Client.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5AFC3EC5-1CC0-45EA-9AAC-42B12813D73A}|CalunsagWASM_IPT102_Final\\Client\\CalunsagWASM_IPT102_Final.Client.csproj|solutionrelative:calunsagwasm_ipt102_final\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\server\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|solutionrelative:calunsagwasm_ipt102_final\\server\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|solutionrelative:calunsagwasm_ipt102_final\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFACBC14-909E-4FAA-876C-129484D15A9D}|CalunsagWASM_IPT102_Final\\Shared\\CalunsagWASM_IPT102_Final.Shared.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\shared\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFACBC14-909E-4FAA-876C-129484D15A9D}|CalunsagWASM_IPT102_Final\\Shared\\CalunsagWASM_IPT102_Final.Shared.csproj|solutionrelative:calunsagwasm_ipt102_final\\shared\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|d:\\ipt\\linkken\\calunsagwebassembly\\calunsagwasm_ipt102_final\\server\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63D2B57-B772-4E12-9F1E-156C89FD2024}|CalunsagWASM_IPT102_Final\\Server\\CalunsagWASM_IPT102_Final.Server.csproj|solutionrelative:calunsagwasm_ipt102_final\\server\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +31,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
-              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAACIAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T12:24:49.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Server\\Program.cs",
-              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Program.cs",
-              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:24:16.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:23:10.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\StudentService.cs",
               "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Server\\StudentService.cs",
               "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\StudentService.cs",
               "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Server\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:21:44.791Z"
+              "WhenOpened": "2024-03-30T07:25:11.921Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Shared\\Student.cs",
-              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Shared\\Student.cs",
-              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Shared\\Student.cs",
-              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Shared\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Server\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:20:28.738Z"
+              "WhenOpened": "2024-03-30T07:21:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayStudents.razor",
+              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\DisplayStudents.razor",
+              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Client\\Pages\\DisplayStudents.razor",
+              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\DisplayStudents.razor",
+              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Client\\Pages\\DisplayStudents.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwB0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T07:01:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "CalunsagWASM_IPT102_Final\\Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T09:07:54.51Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -21,5 +21,18 @@ namespace CalunsagWASM_IPT102_Final.Server
         {
             _students.RemoveAll(x => x.Code == code);
         }
+        public void EditStudent(Student updatedStudent)
+        {
+            var existingStudent = _students.FirstOrDefault(s => s.Code == updatedStudent.Code);
+            if (existingStudent != null)
+            {
+                existingStudent.Name = updatedStudent.Name;
+                existingStudent.Course = updatedStudent.Course;
+            }
+            else
+            {
+                throw new ArgumentException("Student not found", nameof(updatedStudent));
+            }
+        }
     }
 }

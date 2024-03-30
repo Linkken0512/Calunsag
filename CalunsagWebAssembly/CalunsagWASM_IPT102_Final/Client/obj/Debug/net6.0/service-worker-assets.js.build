@@ -69,12 +69,12 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-yNlIzkoI5f9beloEuWIRP\/S3+DPQaa6bTHYTQct8Dts=",
-      "url": "CalunsagWASM_IPT102_Final.Client.styles.css"
-    },
-    {
       "hash": "sha256-9hjFpEvc2hKkrXX6g9QL\/PLMHhAP4ctc\/9LNFUSRGhI=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-yNlIzkoI5f9beloEuWIRP\/S3+DPQaa6bTHYTQct8Dts=",
+      "url": "CalunsagWASM_IPT102_Final.Client.styles.css"
     },
     {
       "hash": "sha256-rxaMcq8hV3Ghq02xdjTphg+CcwUa93\/pNhkQdRfzyP4=",
@@ -857,25 +857,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-hhPQTY\/VUUUSI0tB0H\/ael5mU+qloRBorJ58RBdZnE8=",
+      "hash": "sha256-0I78AOaNbKcFWsRdLzwmgNzVQIISD3bZ4FHZqc8N4jA=",
       "url": "_framework\/CalunsagWASM_IPT102_Final.Shared.dll"
     },
     {
-      "hash": "sha256-DwvihJpBMzqP\/Qtat92Z7jRC1i56OMGI7\/BDpWhGKpc=",
+      "hash": "sha256-e\/nz6tAJdPWZpepPvv0ZW6jQpdfbYi1uXgrDtErDFEY=",
       "url": "_framework\/CalunsagWASM_IPT102_Final.Shared.pdb"
     },
     {
-      "hash": "sha256-MVB8gM5bvr6WqdyKtvL4XjHkPOhK2D4tyhOQp1Lz6Sw=",
+      "hash": "sha256-qSCdKt\/oZMEJCRPxHsUD9qcO5NR0702FKo0qOAVJ\/h8=",
       "url": "_framework\/CalunsagWASM_IPT102_Final.Client.dll"
     },
     {
-      "hash": "sha256-88r6yPtMDZPJlXx4ULQMMcyjVNBxKEYbbPLbDYAcB5A=",
+      "hash": "sha256-5eMHp9IGJMhVnlIoUtDu+EaSPZlNdUlaGiOXkbiTbio=",
       "url": "_framework\/CalunsagWASM_IPT102_Final.Client.pdb"
     },
     {
-      "hash": "sha256-ORMtB0rB+OlFj9lk3gwKF9MRDmdoqlK5YhIevMH4en0=",
+      "hash": "sha256-u8vIwrnJxBushQTyy93QXwEHHxqyes6tQf2TzE7sauE=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "SCzHG2BK"
+  "version": "nOvKTb4V"
 };

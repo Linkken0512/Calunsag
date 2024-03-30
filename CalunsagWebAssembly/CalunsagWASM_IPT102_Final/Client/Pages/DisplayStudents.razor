@@ -1,0 +1,61 @@
+﻿@page "/display"
+@using CalunsagWASM_IPT102_Final.Shared
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+<h3>Students</h3>
+
+<br />
+<br />
+
+@if (studentList != null && studentList.Count != 0)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>Name</td>
+                <td>Code</td>
+                <td>Course</td>
+                <td>Action</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in studentList)
+            {
+                <tr>
+                    <td>@student.Name</td>
+                    <td>@student.Code</td>
+                    <td>@student.Course</td>
+                    <td><button @onclick="async () => {await DeleteStudent(student.Code);}">Delete</button></td>
+                    <td><button @onclick="EditStudent">Save</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <span style="color:red;font-weight:600">No Student to display</span>
+}
+
+@code {
+    private List<Student>? studentList;
+    private Student student = new Student();
+
+    protected override async Task OnInitializedAsync()
+    {
+        studentList = await httpClient.GetFromJsonAsync<List<Student>>("api/Student/GetStudent");
+        await base.OnInitializedAsync();
+    }
+    private async Task DeleteStudent(string code)
+    {
+        await httpClient.DeleteAsync($"api/Student/DeleteStudent?code={code}");
+        studentList = await httpClient.GetFromJsonAsync<List<Student>>("api/Student/GetStudent");
+    }
+    private async Task EditStudent()
+    {
+        await httpClient.PutAsJsonAsync<Student>("api/Student/EditStudent", student);
+        studentList = await httpClient.GetFromJsonAsync<List<Student>>("api/Student/GetStudent");
+        NavigationManager.NavigateTo("/counter");
+    }
+}

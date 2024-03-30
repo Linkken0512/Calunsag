@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cxgY2upwixV4OOfbd5GdL7uAE03ecrcoCOPrJwu2T/I=",
+  "Hash": "7Pi13xdPN64SOGakKmnEj5HNGdlOYurnFmYAT2vEV6I=",
   "Source": "CalunsagWebAssemblyBasic",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.e9bizr8kof.js",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.hdpwzmzn2y.js",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
       "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.e9bizr8kof.js",
+      "RelativePath": "_framework/dotnet.native.8.0.3.hdpwzmzn2y.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.n4dvmq1bfc.js",
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.sy6k5jronn.js",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
       "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.n4dvmq1bfc.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.sy6k5jronn.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.2\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\kizum\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.3\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -4140,25 +4140,6 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.wasm"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\2mh7kovta6.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\2oh76vs5pa.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -4235,6 +4216,25 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.wasm"
     },
     {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\2zwu3tbjvw.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\336danr9l9.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -4271,25 +4271,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.wasm"
-    },
-    {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\3cdpaj4hoj.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\3d45ezrx8o.gz",
@@ -4444,6 +4425,25 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.wasm"
     },
     {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\41bw3ttq76.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\477vwtd7ba.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -4594,25 +4594,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.wasm"
-    },
-    {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\58i0novn6n.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\5b3ts30e6o.gz",
@@ -5050,6 +5031,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.Linq.wasm"
+    },
+    {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\8koqvgek7i.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\8t8trktr4j.gz",
@@ -5603,25 +5603,6 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Private.CoreLib.wasm"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\e9bizr8kof.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.2.e9bizr8kof.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.e9bizr8kof.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.2.e9bizr8kof.js"
-    },
-    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\eca2amh0bl.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -5734,6 +5715,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Windows.wasm"
+    },
+    {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\fp6gt0zdmq.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\fveyapdap7.gz",
@@ -5905,6 +5905,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.wasm"
+    },
+    {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\hdpwzmzn2y.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.3.hdpwzmzn2y.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.hdpwzmzn2y.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.3.hdpwzmzn2y.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\hg9yceipyr.gz",
@@ -6306,25 +6325,6 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.ServicePoint.wasm"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\kse448ac4t.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
-    },
-    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\kv723jirc0.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -6553,25 +6553,6 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.wasm"
     },
     {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\n4dvmq1bfc.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.2.n4dvmq1bfc.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.n4dvmq1bfc.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.2.n4dvmq1bfc.js"
-    },
-    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\n82wmpn0hq.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -6665,25 +6646,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.wasm"
-    },
-    {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\nyriiobevq.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\o06jjq40hb.gz",
@@ -6990,6 +6952,25 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\sa66nehgam.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\sdyur4zec3.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -7045,6 +7026,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.wasm"
+    },
+    {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\sy6k5jronn.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.3.sy6k5jronn.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.sy6k5jronn.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.3.sy6k5jronn.js"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\sz852z8ztk.gz",
@@ -7121,25 +7121,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
-    },
-    {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\td5amjm639.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\te7x1ig6hh.gz",
@@ -7235,6 +7216,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.wasm"
+    },
+    {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\uaahlx2a7u.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\uf8oikfr1q.gz",
@@ -7465,6 +7465,25 @@
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Transactions.wasm"
     },
     {
+      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\xlj2oa0m68.gz",
+      "SourceId": "CalunsagWebAssemblyBasic",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\xrls7j3nez.gz",
       "SourceId": "CalunsagWebAssemblyBasic",
       "SourceType": "Computed",
@@ -7501,25 +7520,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.wasm"
-    },
-    {
-      "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\xvt0yeisnt.gz",
-      "SourceId": "CalunsagWebAssemblyBasic",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "D:\\ipt\\Linkken\\CalunsagWebAssembly\\CalunsagWebAssemblyBasic\\obj\\Debug\\net8.0\\compressed\\xz0qbdkyw3.gz",

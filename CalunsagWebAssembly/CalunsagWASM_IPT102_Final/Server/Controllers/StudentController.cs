@@ -36,5 +36,12 @@ namespace CalunsagWASM_IPT102_Final.Server.Controllers
             _studentService.DeleteStudent(code);
             return Ok();
         }
+        [HttpPut]
+        [Route("EditStudent")]
+        public ActionResult EditStudent([FromBody] Student student)
+        {
+            _studentService.EditStudent(student);
+            return Ok();
+        }
     }
 }

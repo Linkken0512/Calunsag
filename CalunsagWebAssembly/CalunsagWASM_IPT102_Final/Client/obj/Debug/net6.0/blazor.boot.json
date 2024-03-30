@@ -1,7 +1,7 @@
 {
   "entryAssembly": "CalunsagWASM_IPT102_Final.Client",
   "resources": {
-    "hash": "sha256-3ryQPrjMn3WEdOkLN7o2Fnu57Gb8xMJL2PkO2yxiNFY=",
+    "hash": "sha256-uZq0sDdaqChO8okU2Xrkz4iNxYMH9F6EmH04Rk60Qpg=",
     "runtime": {
       "dotnet.6.0.28.gkswqfl3p3.js": "sha256-PYXBt6AuhzWXVEEyGsbAwIvVsAbcDs2FnKYIkVYqLqA=",
       "dotnet.timezones.blat": "sha256-hKZ27N25m01CP4HR0RFvVj2dU0Cw2+EqatmI4zCXdHc=",
@@ -200,12 +200,12 @@
       "mscorlib.dll": "sha256-5c+M6kT5xF9IJ6/416Uyje0rLaSDyuA3IO3sl1gZFD4=",
       "netstandard.dll": "sha256-dNc8HG6nSitRZLGm62pNV31OxqYD8cZWMQdEiEY2PoI=",
       "System.Private.CoreLib.dll": "sha256-DY0iniEv267nIHL2QYLumeOp/cacu4sjj6qQTgznF3A=",
-      "CalunsagWASM_IPT102_Final.Shared.dll": "sha256-hhPQTY/VUUUSI0tB0H/ael5mU+qloRBorJ58RBdZnE8=",
-      "CalunsagWASM_IPT102_Final.Client.dll": "sha256-MVB8gM5bvr6WqdyKtvL4XjHkPOhK2D4tyhOQp1Lz6Sw="
+      "CalunsagWASM_IPT102_Final.Shared.dll": "sha256-0I78AOaNbKcFWsRdLzwmgNzVQIISD3bZ4FHZqc8N4jA=",
+      "CalunsagWASM_IPT102_Final.Client.dll": "sha256-hg2DJODEOTHjMt+PGMt5DkSOmc7QF6vhnwqyO5wVgZ8="
     },
     "pdb": {
-      "CalunsagWASM_IPT102_Final.Shared.pdb": "sha256-DwvihJpBMzqP/Qtat92Z7jRC1i56OMGI7/BDpWhGKpc=",
-      "CalunsagWASM_IPT102_Final.Client.pdb": "sha256-88r6yPtMDZPJlXx4ULQMMcyjVNBxKEYbbPLbDYAcB5A="
+      "CalunsagWASM_IPT102_Final.Shared.pdb": "sha256-e/nz6tAJdPWZpepPvv0ZW6jQpdfbYi1uXgrDtErDFEY=",
+      "CalunsagWASM_IPT102_Final.Client.pdb": "sha256-5ig6K+wUGs66HE1dE8a1dYWyRyxyLDTgJlcgPWRCU9A="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
