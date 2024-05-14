@@ -1,0 +1,6 @@
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\bin\Debug\CalunsagDb.dacpac
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\bin\Debug\CalunsagDb.dll
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\bin\Debug\CalunsagDb.pdb
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\obj\Debug\CalunsagDb.sqlproj.AssemblyReference.cache
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\obj\Debug\CalunsagDb.dll
+D:\ipt\Linkken\Calunsag_Final_IPT102\CalunsagDb\obj\Debug\CalunsagDb.pdb

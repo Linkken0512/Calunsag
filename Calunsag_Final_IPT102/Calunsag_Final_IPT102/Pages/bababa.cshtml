@@ -1,0 +1,25 @@
+﻿@page
+@model Calunsag_Final_IPT102.Pages.bababaModel
+@{
+}
+
+<h2 class="text-center">Welcome to Destination F</h2>
+
+<div>
+    First Name: @Model.appUser?.FirstName
+</div>
+<div>
+    Last Name: @Model.appUser?.LastName
+</div>
+<div>
+    Email: @Model.appUser?.Email
+</div>
+<div>
+    Phone: @Model.appUser?.PhoneNumber
+</div>
+<div>
+    Address: @Model.appUser?.Address
+</div>
+<div>
+    Create At: @Model.appUser?.CreatedAt.ToString("MM/dd/yyyy")
+</div>

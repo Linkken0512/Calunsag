@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Calunsag_Final_IPT102.props" />
+</Project>

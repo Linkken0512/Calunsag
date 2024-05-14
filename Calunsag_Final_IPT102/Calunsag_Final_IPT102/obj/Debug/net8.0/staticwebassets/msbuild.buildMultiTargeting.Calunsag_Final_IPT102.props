@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Calunsag_Final_IPT102.props" />
+</Project>
