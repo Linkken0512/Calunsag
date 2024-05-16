@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CalunsagWASM_IPT102_Final.Server.props" />
-</Project>

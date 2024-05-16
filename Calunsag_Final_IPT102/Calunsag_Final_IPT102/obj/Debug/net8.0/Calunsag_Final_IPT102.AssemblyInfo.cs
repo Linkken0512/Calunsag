@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calunsag_Final_IPT102")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5250db81c87c6e2ac1849064a6bbd6fb4bfe484f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b98735bd2feaeeb6ee973f8f7d913e191e8e8a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calunsag_Final_IPT102")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calunsag_Final_IPT102")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

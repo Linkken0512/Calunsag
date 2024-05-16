@@ -4,12 +4,13 @@
     ViewData["Title"] = "Home page";
 }
 
+
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to the Internet</h1>
 </div>
 
-
-<a href="/bababa">User</a><br/>
-<a href="/Admin">Admin</a><br/>
-<a href="/Client">Client</a><br/>
+<div class="text-center mt-3">
+    <button type="button" class="btn btn-primary mr-2" onclick="location.href='/User'">User</button>
+    <button type="button" class="btn btn-primary mr-2" onclick="location.href='/Admin'">Admin</button>
+    <button type="button" class="btn btn-primary" onclick="location.href='/Client'">Client</button>
+</div>

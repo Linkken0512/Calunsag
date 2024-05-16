@@ -8268,11 +8268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ipt\\Linkken\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102.csproj",
+      "projectUniqueName": "D:\\Github\\Calunsag-IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102.csproj",
       "projectName": "Calunsag_Final_IPT102",
-      "projectPath": "D:\\ipt\\Linkken\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102.csproj",
+      "projectPath": "D:\\Github\\Calunsag-IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102.csproj",
       "packagesPath": "C:\\Users\\kizum\\.nuget\\packages\\",
-      "outputPath": "D:\\ipt\\Linkken\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\obj\\",
+      "outputPath": "D:\\Github\\Calunsag-IPT102\\Calunsag_Final_IPT102\\Calunsag_Final_IPT102\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

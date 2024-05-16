@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CalunsagBlazorAppIPT02.props" />
-</Project>

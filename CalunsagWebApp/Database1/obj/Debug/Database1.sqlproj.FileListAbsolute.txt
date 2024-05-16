@@ -1,0 +1,6 @@
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\bin\Debug\Database1.dacpac
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\bin\Debug\Database1.dll
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\bin\Debug\Database1.pdb
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\obj\Debug\Database1.dll
+D:\Github\Calunsag-IPT102\CalunsagWebApp\Database1\obj\Debug\Database1.pdb
