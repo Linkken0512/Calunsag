@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalunsagWebApplication", "CalunsagWebApplication\CalunsagWebApplication.csproj", "{E738E635-248A-4F60-A695-A474E479DCDC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MarcDb", "MarcDb\MarcDb.sqlproj", "{74D1DB84-7086-408E-8B49-09C56F423517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E738E635-248A-4F60-A695-A474E479DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E738E635-248A-4F60-A695-A474E479DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E738E635-248A-4F60-A695-A474E479DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E738E635-248A-4F60-A695-A474E479DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D1DB84-7086-408E-8B49-09C56F423517}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C12AAB1B-E3ED-4589-A037-E4C0201F527F}
+	EndGlobalSection
+EndGlobal

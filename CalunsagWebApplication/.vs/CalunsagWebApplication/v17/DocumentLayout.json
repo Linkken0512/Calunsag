@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapplication\\calunsagwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|solutionrelative:calunsagwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapplication\\calunsagwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|solutionrelative:calunsagwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapplication\\calunsagwebapplication\\views\\products\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|solutionrelative:calunsagwebapplication\\views\\products\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapplication\\calunsagwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|solutionrelative:calunsagwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapplication\\calunsagwebapplication\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E738E635-248A-4F60-A695-A474E479DCDC}|CalunsagWebApplication\\CalunsagWebApplication.csproj|solutionrelative:calunsagwebapplication\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cshtml",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Products\\Client.cshtml",
+              "RelativeDocumentMoniker": "CalunsagWebApplication\\Views\\Products\\Client.cshtml",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Products\\Client.cshtml",
+              "RelativeToolTip": "CalunsagWebApplication\\Views\\Products\\Client.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:53:15.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalunsagWebApplication\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "CalunsagWebApplication\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:52:09.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CalunsagWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CalunsagWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:48:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalunsagWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalunsagWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:16:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalunsagWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CalunsagWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T20:16:12.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Github\\Calunsag-IPT102\\CalunsagProject\\FinalDatabase\\FinalDatabase.sqlproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02F60F42-9703-4909-B1AD-ABF8E07856AE}|CalunsagWebApp\\CalunsagWebApp.csproj|d:\\github\\calunsag-ipt102\\calunsagwebapp\\calunsagwebapp\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F60F42-9703-4909-B1AD-ABF8E07856AE}|CalunsagWebApp\\CalunsagWebApp.csproj|solutionrelative:calunsagwebapp\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +30,17 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FinalDatabase.sqlproj",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagProject\\FinalDatabase\\FinalDatabase.sqlproj",
+              "RelativeDocumentMoniker": "..\\CalunsagProject\\FinalDatabase\\FinalDatabase.sqlproj",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\CalunsagProject\\FinalDatabase\\FinalDatabase.sqlproj",
+              "RelativeToolTip": "..\\CalunsagProject\\FinalDatabase\\FinalDatabase.sqlproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000827|",
+              "WhenOpened": "2024-05-16T14:09:45.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApp\\CalunsagWebApp\\Services\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "CalunsagWebApp\\Services\\ApplicationDbContext.cs",
@@ -34,12 +48,11 @@
               "RelativeToolTip": "CalunsagWebApp\\Services\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:52:03.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:52:03.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApp\\CalunsagWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "CalunsagWebApp\\appsettings.json",
@@ -51,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApp\\CalunsagWebApp\\Program.cs",
               "RelativeDocumentMoniker": "CalunsagWebApp\\Program.cs",

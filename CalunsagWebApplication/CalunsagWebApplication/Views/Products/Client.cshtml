@@ -1,0 +1,30 @@
+﻿@model List<Product>
+
+<h1 class="text-center mb-5">Welcome Adventurer</h1>
+<h3 class="text-center mb-5">List of Products</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Image</th>
+            <th>Created At</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Brand</td>
+                <td>@product.Category</td>
+                <td>₱@(product.Price)</td>
+                <td><img src="/images/@product.ImageFileName" width="100" /></td>
+                <td>@product.CreatedAt.ToString("MM/dd/yyyy")</td>                
+            </tr>
+        }
+    </tbody>
+</table>

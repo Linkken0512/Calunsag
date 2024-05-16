@@ -1,0 +1,19 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+@model ProductDto
+
+<h2 class="text-center mb-5">List of Products</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Image</th>
+            <th>Created At</th>
+        </tr>
+    </thead>
+</table>
