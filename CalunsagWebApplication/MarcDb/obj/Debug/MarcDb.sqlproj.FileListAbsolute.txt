@@ -4,7 +4,3 @@ D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\bin\Debug\MarcDb.pdb
 D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\MarcDb.sqlproj.AssemblyReference.cache
 D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\MarcDb.dll
 D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\MarcDb.pdb
-D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\Model.xml
-D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\refactor.xml
-D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\postdeploy.sql
-D:\Github\Calunsag-IPT102\CalunsagWebApplication\MarcDb\obj\Debug\predeploy.sql
