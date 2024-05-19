@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Github\Calunsag-IPT102\CalunsagWebApplication\CalunsagWebApplication
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Github/Calunsag-IPT102/CalunsagWebApplication/CalunsagWebApplication/Areas/Identity/Pages/Account/Client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Github/Calunsag-IPT102/CalunsagWebApplication/CalunsagWebApplication/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

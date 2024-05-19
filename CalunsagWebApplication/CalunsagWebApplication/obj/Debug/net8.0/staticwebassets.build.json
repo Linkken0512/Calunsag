@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/c+Mx9h5uRQfIxHqzLMalYQRTmsfKCr1Ky/nzVLpcgg=",
+  "Hash": "fgaNHLd+nNiILkYg+b4RW2EKfAHFm9dVTDDUBOICww8=",
   "Source": "CalunsagWebApplication",
   "BasePath": "_content/CalunsagWebApplication",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\1692102651174979549.jpg"
+    },
+    {
+      "Identity": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\wwwroot\\images\\20240519150018240.jpg",
+      "SourceId": "CalunsagWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\wwwroot\\",
+      "BasePath": "_content/CalunsagWebApplication",
+      "RelativePath": "images/20240519150018240.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20240519150018240.jpg"
     },
     {
       "Identity": "D:\\Github\\Calunsag-IPT102\\CalunsagWebApplication\\CalunsagWebApplication\\wwwroot\\images\\BAN.jpg",

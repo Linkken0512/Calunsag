@@ -162,8 +162,8 @@ namespace CalunsagWebApplication.Controllers
             var products = context.Products.OrderByDescending(p => p.Id).ToList();
             return View(products);
         }
-        
-        
+
+        [Authorize(Roles = "client, admin")]
         public IActionResult Client()
         {
             var products = context.Products.OrderByDescending(p => p.Id).ToList();
