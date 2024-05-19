@@ -1,0 +1,10 @@
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\bin\Debug\Database1.dacpac
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\bin\Debug\Database1.dll
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\bin\Debug\Database1.pdb
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\Model.xml
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\refactor.xml
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\postdeploy.sql
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\predeploy.sql
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\Database1.dll
+D:\Github\Calunsag-IPT102\WebApplication1\Database1\obj\Debug\Database1.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Calunsag-IPT102\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B433AF-5D55-4316-B21A-163115FF514F}|ClassLibrary1\\ClassLibrary1.csproj|d:\\github\\calunsag-ipt102\\webapplication1\\classlibrary1\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B433AF-5D55-4316-B21A-163115FF514F}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "D:\\Github\\Calunsag-IPT102\\WebApplication1\\ClassLibrary1\\DataAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataAccess\\SqlDataAccess.cs",
+              "ToolTip": "D:\\Github\\Calunsag-IPT102\\WebApplication1\\ClassLibrary1\\DataAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataAccess\\SqlDataAccess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:50:05.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

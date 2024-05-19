@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[TestTable]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[TestTable] (Table)
+     Create
+       [dbo].[DeleteData] (Procedure)
+       [dbo].[DisplayAll] (Procedure)
+       [dbo].[InsertData] (Procedure)
+       [dbo].[SelectData] (Procedure)
+       [dbo].[UpdateData] (Procedure)
+
+** Supporting actions

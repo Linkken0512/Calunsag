@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalunsagWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c74393003df548b6e4696ef6d03afafe9c076af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a6499d977235ec45cc162ea9559f081ca7cdcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalunsagWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalunsagWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

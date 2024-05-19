@@ -163,7 +163,7 @@ namespace CalunsagWebApplication.Controllers
             return View(products);
         }
         
-        [Authorize(Roles = "client")]
+        
         public IActionResult Client()
         {
             var products = context.Products.OrderByDescending(p => p.Id).ToList();
