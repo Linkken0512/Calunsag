@@ -1,0 +1,1 @@
+<img src="https://southernchristiancollege.edu.ph/wp-content/uploads/2020/06/SCC-logo-header.png" style="width:80%;">
