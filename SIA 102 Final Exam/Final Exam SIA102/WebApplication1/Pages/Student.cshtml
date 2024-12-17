@@ -1,0 +1,133 @@
+﻿@page
+@model WebApplication1.Pages.StudentModel
+@{
+    ViewData["Title"] = "Students";
+}
+
+@using Microsoft.AspNetCore.Identity
+@using WebApplication1.Models
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<h2>Students</h2>
+
+@if (SignInManager.IsSignedIn(User))
+{
+    if (User.IsInRole("admin"))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Last Name</th>
+                    <th>First Name</th>
+                    <th>Department Name</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var student in Model.Students)
+                {
+                    <tr>
+                        <td>@student.LastName</td>
+                        <td>@student.FirstName</td>
+                        <td>@student.DeptName</td>
+                        <td>
+                            <button class="btn btn-primary" data-bs-toggle="modal"
+                                    data-bs-target="#editModal"
+                                    onclick="populateModal('@student.StudentID',
+'@student.LastName', '@student.FirstName', '@student.DeptName')">
+                                Edit
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else if (User.IsInRole("client"))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Last Name</th>
+                    <th>First Name</th>
+                    <th>Department Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var student in Model.Students)
+                {
+                    <tr>
+                        <td>@student.LastName</td>
+                        <td>@student.FirstName</td>
+                        <td>@student.DeptName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+
+
+<div class="modal fade" id="editModal" tabindex="-1" aria-labelledby="editModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="editModalLabel">Edit Student</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                            aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="StudentID" name="StudentID" />
+                    <div class="mb-3">
+                        <label for="LastName" class="form-label">Last Name</label>
+                        <input type="text" class="form-control" id="LastName"
+                               name="LastName" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="FirstName" class="form-label">First Name</label>
+                        <input type="text" class="form-control" id="FirstName"
+                               name="FirstName" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="DepartmentID" class="form
+label">Department</label>
+                        <select class="form-select" id="DepartmentID"
+                                name="DepartmentID">
+                            @foreach (var department in Model.Departments)
+                            {
+                                <option value="@department.DepartmentID">@department.DeptName</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                        Close
+                    </button>
+                    <button type="submit" class="btn btn-primary">
+                        Save
+                        changes
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    function populateModal(studentID, lastName, firstName, deptName) {
+        document.getElementById('StudentID').value = studentID;
+        document.getElementById('LastName').value = lastName;
+        document.getElementById('FirstName').value = firstName;
+        const deptSelect = document.getElementById('DepartmentID');
+        for (let i = 0; i < deptSelect.options.length; i++) {
+            if (deptSelect.options[i].text === deptName) {
+                deptSelect.selectedIndex = i;
+                break;
+            }
+        }
+    }
+</script> 

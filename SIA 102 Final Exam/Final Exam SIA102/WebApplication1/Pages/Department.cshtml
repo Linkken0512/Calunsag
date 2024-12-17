@@ -1,0 +1,175 @@
+﻿@page
+@model WebApplication1.Pages.DepartmentModel
+
+<h2>Departments</h2>
+
+
+<button class="btn btn-success" data-toggle="modal" data-target="#addDepartmentModal">
+    Add New Department
+</button>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Department</th>
+            <th>Department Description</th>
+            <th>Dean</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model.Departments)
+        {
+            <tr>
+                <td>@department.DeptName</td>
+                <td>@department.DeptDescription</td>
+                <td>@department.DeanFirstName @department.DeanLastName</td>
+                <td>
+                    <button class="btn btn-primary edit-button"
+                            data-toggle="modal"
+                            data-target="#editDepartmentModal"
+                            data-id="@department.DepartmentID"
+                            data-name="@department.DeptName"
+                            data-description="@department.DeptDescription"
+                            data-deanid="@department.DepartmentDean">
+                        Edit
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="modal fade" id="addDepartmentModal" tabindex="-1" role="dialog" aria-labelledby="addDepartmentModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="addDepartmentModalLabel">
+                    Add New
+                    Department
+                </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form method="post">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="DeptName">Department Name</label>
+                        <input type="text" class="form-control" id="DeptName"
+                               name="DeptName" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="DeptDescription">Department Description</label>
+                        <input type="text" class="form-control" id="DeptDescription"
+                               name="DeptDescription" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="DepartmentDean">Department Dean</label>
+                        <select class="form-control" id="DepartmentDean"
+                                name="DepartmentDean" required>
+                            <option value="">Select a Dean</option>
+                            @foreach (var user in Model.Users)
+                            {
+                                <option value="@user.Id">
+                                    @user.FirstName
+                                    @user.LastName
+                                </option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        Close
+                    </button>
+                    <button type="submit" class="btn btn-primary">
+                        Add
+                        Department
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="editDepartmentModal" tabindex="-1" role="dialog" aria-labelledby="editDepartmentModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="editDepartmentModalLabel">
+                    Edit
+                    Department
+                </h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form method="post">
+                <input type="hidden" id="EditDepartmentID" name="DepartmentID" />
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="EditDeptName">Department Name</label>
+                        <input type="text" class="form-control" id="EditDeptName"
+                               name="DeptName" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="EditDeptDescription">
+                            Department
+                            Description
+                        </label>
+                        <input type="text" class="form-control"
+                               id="EditDeptDescription" name="DeptDescription" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="EditDepartmentDean">Department Dean</label>
+                        <select class="form-control" id="EditDepartmentDean"
+                                name="DepartmentDean" required>
+                            <option value="">Select a Dean</option>
+                            @foreach (var user in Model.Users)
+                            {
+                                <!option value="@user.Id" @(user.Id ==
+                            Model.DepartmentDeanId ? "selected" : "")>
+                                    @user.FirstName @user.LastName
+                                </!option>
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">
+                        Close
+                    </button>
+                    <button type="submit" class="btn btn-primary">
+                        Update
+                        Department
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const editButtons = document.querySelectorAll('.edit-button');
+        editButtons.forEach(button => {
+            button.addEventListener('click', function () {
+                const departmentId = this.getAttribute('data-id');
+                const deptName = this.getAttribute('data-name');
+                const deptDescription = this.getAttribute('data-description');
+                const departmentDeanId = this.getAttribute('data-deanid');
+
+                // Populate the edit modal fields
+                document.getElementById('EditDepartmentID').value = departmentId;
+                document.getElementById('EditDeptName').value = deptName;
+                document.getElementById('EditDeptDescription').value =
+                    deptDescription;
+
+                const editDeanSelect =
+                    document.getElementById('EditDepartmentDean');
+                Array.from(editDeanSelect.options).forEach(option => {
+                    option.selected = option.value === departmentDeanId;
+                });
+            });
+        });
+    });
+</script> 

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\pages\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\pages\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\pages\\department.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\department.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\pages\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\department.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\models\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|d:\\sia 102 final exam\\final exam sia102\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04C45D8-C573-4C8B-A96A-F56631A7B7FE}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cshtml.cs",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Student.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Student.cshtml.cs",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Student.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Student.cshtml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:03:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Student.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Student.cshtml",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Student.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Student.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:59:59.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cshtml.cs",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Department.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Department.cshtml.cs",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Department.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Department.cshtml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAiwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:58:33.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cshtml",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Department.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Department.cshtml",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Pages\\Department.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Department.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAIMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:56:44.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Models\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\StudentInfo.cs",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Models\\StudentInfo.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\StudentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:55:49.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
+              "ToolTip": "D:\\SIA 102 Final Exam\\Final Exam SIA102\\WebApplication1\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:54:18.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
